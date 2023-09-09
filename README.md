@@ -1,2 +1,2 @@
 # GPT_BOT
-GPT_BOT
+Discord GPT_BOT
